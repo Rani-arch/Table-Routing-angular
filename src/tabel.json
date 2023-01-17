@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "gender": "male",
+      "salary": 20000
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "email": "jim@gmail.com",
+      "gender": "male",
+      "salary": 30000
+    },
+    {
+      "id": 3,
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "gender": "female",
+      "salary": 35000
+    },
+    {
+      "id": 4,
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 23000
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "email": "john@gmail.com",
+      "gender": "male",
+      "salary": 54000
+    },
+    {
+      "id": 6,
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "gender": "male",
+      "salary": 59000
+    },
+    {
+      "id": 7,
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "gender": "female",
+      "salary": 54000
+    },
+    {
+      "id": 8,
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 55000
+    },
+
+    {
+      "id": 9,
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "gender": "male",
+      "salary": 57000
+    },
+    {
+      "id": 10,
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "gender": "female",
+      "salary": 58000
+    },
+    {
+      "id": 11,
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 54000
+    },
+    {
+      "id": 12,
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "gender": "male",
+      "salary": 53000
+    },
+    {
+      "id": 13,
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "gender": "female",
+      "salary": 52000
+    },
+    {
+      "id": 14,
+      "name": "mith",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 15,
+      "name": "Smi",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 34000
+    },
+    {
+      "id": 16,
+      "name": "mithu",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 76000
+    },
+    {
+      "id": 17,
+      "name": "mit",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 39000
+    },
+    {
+      "id": 18,
+      "name": "Sam",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 55000
+    },
+    {
+      "id": 19,
+      "name": "mahi",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 50000
+    },
+    {
+      "id": 20,
+      "name": "pummy",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 21,
+      "name": "Raju",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 22,
+      "name": "Khan",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 23,
+      "name": "Mariyam",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 24,
+      "name": "Sahil",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 25,
+      "name": "Avi",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 26,
+      "name": "James",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 27,
+      "name": "Jasenka",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 28,
+      "name": "Soni",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 29,
+      "name": "Saumya",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    },
+    {
+      "id": 30,
+      "name": "Harry",
+      "email": "smith@gmail.com",
+      "gender": "male",
+      "salary": 51000
+    }
+  ]
+}

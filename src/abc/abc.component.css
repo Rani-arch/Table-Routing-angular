@@ -1,0 +1,8 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+#datatable:nth-child(even) {
+  background: slategray;
+  color: #000;
+}
